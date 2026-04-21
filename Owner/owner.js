@@ -1,1 +1,1 @@
-module.exports = ["TAYYAB"]; // <-- Replace with YOUR number
+module.exports = ["SHAN khan"]; // <-- Replace with YOUR number

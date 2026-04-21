@@ -1,14 +1,14 @@
-// ✅ MegaTron Bot Stylish Configuration – by 𝗧𝗔𝗬𝗬𝗔𝗕 ❦ ✓
+// ✅ MegaTron Bot Stylish Configuration – by shankhansk ❦ ✓
 
-const ownerNumber = require('./Owner/owner'); // 🔗 Example: ['923123456789']
+const ownerNumber = require('./Owner/owner'); // 🔗 Example: ['923092818209']
 
 const config = {
   // 👑 Owner Info
-  ownerNumber,                          // 🔹 Array of Owner Numbers
-  ownerName: '𓆩 𝗧𝗔𝗬𝗬𝗔𝗕 ❦︎𓆪',              // 🔹 Displayed in Greetings
+  ownerNumber,                          // 🔹 Array of Owner shankhansk
+  ownerName: '𓆩 shankhansk❦︎𓆪',              // 🔹 Displayed in Greetings
   botName: '🤖 𝗠𝗘𝗚𝗔𝐓𝐑𝐎𝐍 𝑩𝑶𝑻 ⚡',           // 🔹 Bot Display Name
-  signature: '> 𝗧𝗔𝗬𝗬𝗔𝗕 ❦ ✓',               // 🔹 Footer on Bot Replies
-  youtube: 'https://www.youtube.com/@TayyabExploitZ', // 🔹 Optional YouTube
+  signature: '> shankhansk❦ ✓',               // 🔹 Footer on Bot shan
+  youtube: 'https://www.youtube.com/@SHAN-KHAN-SK-MODS', // 🔹 Optional YouTube
 
   // ⚙️ Feature Toggles
   autoTyping: false,        // ⌨️ Fake Typing
